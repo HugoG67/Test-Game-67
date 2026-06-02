@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Packages/com.unity.package-manager-ui/
+sysinfo.txt
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Rider cache
+.idea/
+*.sln.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
